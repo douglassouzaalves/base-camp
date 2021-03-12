@@ -1,3 +1,3 @@
-# hello-word
+# base-camp
 
  Primeiro repositório do curso de Git e GitHub
